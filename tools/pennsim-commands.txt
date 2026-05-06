@@ -1,0 +1,10 @@
+as tools/lc3tools_v12/lc3tools/lc3os.asm
+as src/smc.asm
+load tools/lc3tools_v12/lc3tools/lc3os.obj
+load src/smc.obj
+break set PUSH_RESULT
+set PC x3000
+input examples/test-input.txt
+continue
+check r3 15
+quit
