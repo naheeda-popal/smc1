@@ -18,8 +18,6 @@ This project is intentionally small so another student can rebuild it from scrat
    - `examples`
 3. Place the calculator assembly in `src/smc.asm`.
 4. Add a `README.md` with install and usage instructions.
-5. Add a `LICENSE` file.
-6. Add at least one example session under `examples`.
 7. Assemble `tools/lc3tools_v12/lc3tools/lc3os.asm`.
 8. Assemble `src/smc.asm`.
 9. Load both object files in PennSim.
