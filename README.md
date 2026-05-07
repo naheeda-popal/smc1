@@ -124,6 +124,3 @@ Too many digits:
 - After an error, the stack and current number are cleared and the program returns to the `>` prompt.
 - In PennSim text mode, scripted file input proved reliable for operator execution but not for automating a trailing `.` print command. Interactive use in PennSim remains the intended way to exercise `.`.
 
-## License
-
-This project uses the MIT License so it can be reused in educational materials with minimal restriction. See `LICENSE`.
