@@ -1,4 +1,4 @@
-# LC-3 RPN Calculator - Code Breakdown
+rpn# LC-3 RPN Calculator - Code Breakdown
 
 This breakdown explains the LC-3 assembly code line-by-line in simple terms, following the logic of the program.
 
